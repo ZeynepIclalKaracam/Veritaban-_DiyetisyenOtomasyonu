@@ -1,0 +1,57 @@
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\bin\Debug\DiyetisyenOtomasyonu.exe.config
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\bin\Debug\DiyetisyenOtomasyonu.exe
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\bin\Debug\DiyetisyenOtomasyonu.pdb
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\DiyetisyenOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Bilgiler.resources
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Form1.resources
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Hesapla.resources
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\DiyetisyenOtomasyonu.Properties.Resources.resources
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Yonetici.resources
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Yonetici2.resources
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\DiyetisyenOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\DiyetisyenOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\DiyetisyenOtomasyonu.exe
+C:\Users\Furkan\Desktop\veri proje\diyet-otomasyonu-master\diyet-otomasyonu-master\KaloriHesabi\KaloriHesabi\obj\Debug\DiyetisyenOtomasyonu.pdb
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\bin\Debug\DiyetisyenOtomasyonu.exe.config
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\bin\Debug\DiyetisyenOtomasyonu.exe
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\bin\Debug\DiyetisyenOtomasyonu.pdb
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Bilgiler.resources
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Form1.resources
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Hesapla.resources
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Yonetici.resources
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Yonetici2.resources
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.exe
+C:\Users\Furkan\Desktop\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\bin\Debug\DiyetisyenOtomasyonu.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\bin\Debug\DiyetisyenOtomasyonu.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\bin\Debug\DiyetisyenOtomasyonu.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Bilgiler.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Hesapla.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Yonetici.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Yonetici2.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Veri Tabanı Final Porjesi\DiyetisyenOtomasyonu\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.pdb
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\bin\Debug\DiyetisyenOtomasyonu.exe.config
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\bin\Debug\DiyetisyenOtomasyonu.exe
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\bin\Debug\DiyetisyenOtomasyonu.pdb
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.exe.config
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Bilgiler.resources
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Form1.resources
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Hesapla.resources
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Yonetici.resources
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.Yonetici2.resources
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.exe
+C:\Users\user\Desktop\dataBaseProject-main\arayüz\DiyetisyenOtomasyonu\obj\Debug\DiyetisyenOtomasyonu.pdb
